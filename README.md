@@ -2,35 +2,23 @@
 
 This script will convert your numpad into a japanese mobile-styled (flick input) keyboard. The mobile keyboard I've imitated is from my own android phone.
 
-┌───────┬───────┬───────┬───────┐
-│  日本	│	゛	│	゜	│	←	│
-├───────┼───────┼───────┼───────┤
-│	あ	│	か	│	さ	│ Space	│
-├───────┼───────┼───────┤		│
-│	た	│	な	│	は	│ └───┘	│
-├───────┼───────┼───────┼───────┤
-│	ま	│	や	│	ら	│		│
-├───────┴───────┼───────┤ Enter	│
-│			わ	│	、	│		│
-└───────────────┴───────┴───────┘
-
 Behaviour: 
 NumLock and ScrollLock are toggle buttons. When NumLock is off the japanese keyboard is activated. 
 ScrollLock activates the second set of syllabary called Katakana, as well as turning the regular numpad numbers into Kanji numbers.
 Numpad division (NumpadDiv) and numpad multiplication (NumpadMult)keys acts as toggles for dakuten & han-dakuten symbols, however they reset when they have been used.
 To use the arrow keys normally while using the japanese keyboard, hold Control while pressing the arrow keys.
 
-NumpadSub 		= Backspace
-NumpadAdd 		= Space
+NumpadSub 	= Backspace
+NumpadAdd 	= Space
 NumpadEnter 	= Enter
 LControl+LAlt+6	= 円 (¥ when numlock is off)
-RAlt+6			= 円 (¥ when numlock is off)
+RAlt+6		= 円 (¥ when numlock is off)
 
 The following is a mapping of how each key responds to different modifier keys and toggles when:
 
 Table 1 - Hiragana
 NumLock is off:
-Modifier key:	(none)	Left	Up		Right	Down
+Modifier key:		(none)		Left		Up		Right		Down
 			
 NumpadHome		あ		い		う		え		お	
 NumpadUp		か		き		く		け		こ
@@ -46,7 +34,7 @@ NumpadDel		、		。		？		！		…
 
 Table  2
 NumLock is off and NumpadDiv is toggled (empty indicates same behaviour as in table 1):
-Modifier key:	(none)	Left	Up		Right	Down
+Modifier key:		(none)		Left		Up		Right		Down
 			
 NumpadHome		ぁ		ぃ		ぅ		ぇ		ぉ	
 NumpadUp		が		ぎ		ぐ		げ		ご
@@ -62,7 +50,7 @@ NumpadDel
 
 Table  3
 NumLock is off and NumpadMult is toggled (empty indicates same behaviour as in table 1):
-Modifier key:	(none)	Left	Up		Right	Down
+Modifier key:		(none)		Left		Up		Right	Down
 			
 NumpadHome			
 NumpadUp		
@@ -78,7 +66,7 @@ NumpadDel
 
 Table  4 - Katakana
 NumLock is off and ScrollLock is on:
-Modifier key:	(none)	Left	Up		Right	Down
+Modifier key:		(none)		Left		Up		Right		Down
 			
 NumpadHome		ア		イ		ウ		エ		オ
 NumpadUp		カ		キ		ク		ケ		コ
@@ -94,7 +82,7 @@ NumpadDel		、		。		？		！		…
 
 Table  5
 NumLock is off, ScrollLock is on and NumpadDiv is toggled (empty indicates same behaviour as in table 4):
-Modifier key:	(none)	Left	Up		Right	Down
+Modifier key:		(none)		Left		Up		Right		Down
 			
 NumpadHome		ァ		ィ		ゥ		ェ		ォ
 NumpadUp		ガ		ギ		グ		ゲ		ゴ
@@ -110,7 +98,7 @@ NumpadDel
 
 Table  6
 NumLock is off, ScrollLock is on and NumpadMult is toggled (empty indicates same behaviour as in table 4):
-Modifier key:	(none)	Left	Up		Right	Down
+Modifier key:		(none)		Left		Up		Right		Down
 			
 NumpadHome		
 NumpadUp		
@@ -126,7 +114,7 @@ NumpadDel
 
 Table  7
 NumLock is on and ScrollLock is on:
-Modifier key:	(none)	Control
+Modifier key:		(none)		Control
 			
 Numpad0 		零		十
 Numpad1 		一
