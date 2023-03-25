@@ -10,24 +10,40 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 #IF (!GetKeyState("NumLock", "T"))
 
 ; -----------------------------------------------------------
-
+Left::Left
+Up::Up
+Right::Right
+Down::Down
 NumpadDiv::numpadDivToggle:=!numpadDivToggle
 NumpadMult::numpadMultToggle:=!numpadMultToggle
 numpadDivToggle:=false
 numpadMultToggle:=false
 <^<!6::円
 >!6::円
+NumpadDel::、
+Left & NumpadDel::。
+Up & NumpadDel::？
+Right & NumpadDel::！
+Down & NumpadDel::…
+NumpadSub::Backspace
+NumpadAdd::send, {Space}
+
 ; -----------------------------------------------------------
 
+RControl & NumpadHome::
 NumpadHome::
 if (GetKeyState("ScrollLock", "T") && numpadDivToggle){
 	send, ァ
 	numpadDivToggle:=false
+} else if (GetKeyState("ScrollLock", "T") && GetKeyState("RControl")){
+	send, ァ
 } else if (GetKeyState("ScrollLock", "T")) {
 	send, ア
 } else if (numpadDivToggle) {
     send, ぁ
 	numpadDivToggle:=false
+} else if (GetKeyState("RControl")){
+	send, ぁ
 } else {
     send, あ
 }
@@ -37,11 +53,15 @@ Left & NumpadHome::
 if (GetKeyState("ScrollLock", "T") && numpadDivToggle){
 	send, ィ
 	numpadDivToggle:=false
+} else if (GetKeyState("ScrollLock", "T") && GetKeyState("RControl")){
+	send, ィ
 } else if (GetKeyState("ScrollLock", "T")) {
 	send, イ
 } else if (numpadDivToggle) {
     send, ぃ
 	numpadDivToggle:=false
+} else if (GetKeyState("RControl")){
+	send, ぃ
 } else {
     send, い
 }
@@ -51,11 +71,15 @@ Up & NumpadHome::
 if (GetKeyState("ScrollLock", "T") && numpadDivToggle){
 	send, ゥ
 	numpadDivToggle:=false
+} else if (GetKeyState("ScrollLock", "T") && GetKeyState("RControl")){
+	send, ゥ
 } else if (GetKeyState("ScrollLock", "T")) {
 	send, ウ
 } else if (numpadDivToggle) {
     send, ぅ
 	numpadDivToggle:=false
+} else if (GetKeyState("RControl")){
+	send, ぅ
 } else {
     send, う
 }
@@ -65,11 +89,15 @@ Right & NumpadHome::
 if (GetKeyState("ScrollLock", "T") && numpadDivToggle){
 	send, ェ
 	numpadDivToggle:=false
+} else if (GetKeyState("ScrollLock", "T") && GetKeyState("RControl")){
+	send, ェ
 } else if (GetKeyState("ScrollLock", "T")) {
 	send, エ
 } else if (numpadDivToggle) {
     send, ぇ
 	numpadDivToggle:=false
+} else if (GetKeyState("RControl")){
+	send, ぇ
 } else {
     send, え
 }
@@ -79,11 +107,15 @@ Down & NumpadHome::
 if (GetKeyState("ScrollLock", "T") && numpadDivToggle){
 	send, ォ
 	numpadDivToggle:=false
+} else if (GetKeyState("ScrollLock", "T") && GetKeyState("RControl")){
+	send, ォ
 } else if (GetKeyState("ScrollLock", "T")) {
 	send, オ
 } else if (numpadDivToggle) {
     send, ぉ
 	numpadDivToggle:=false
+} else if (GetKeyState("RControl")){
+	send, ぉ
 } else {
     send, お
 }
@@ -648,19 +680,8 @@ if (GetKeyState("ScrollLock", "T")) {
 Return
 
 ; -----------------------------------------------------------
-
-NumpadDel::、
-Left & NumpadDel::。
-Up & NumpadDel::？
-Right & NumpadDel::！
-Down & NumpadDel::…
-NumpadSub::Backspace
-NumpadAdd::send, {Space}
-Control & Left::send, {Left}
-Control & Up::send, {Up}
-Control & Right::send, {Right}
-Control & Down::send, {Down}
 #IF
+
 #IF (GetKeyState("ScrollLock", "T"))
 Numpad0::零
 Numpad1::一
@@ -674,4 +695,3 @@ Numpad8::八
 Numpad9::九
 Control & Numpad0::十
 #IF
-
