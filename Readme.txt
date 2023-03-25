@@ -23,8 +23,8 @@ To use the arrow keys normally while using the japanese keyboard, hold Control w
 NumpadSub 		= Backspace
 NumpadAdd 		= Space
 NumpadEnter 		= Enter
-LControl+LAlt+6		= 円 (¥ when numlock is off)
-RAlt+6			= 円 (¥ when numlock is off)
+LControl+LAlt+6		= 円 (¥ when numlock is on)
+RAlt+6			= 円 (¥ when numlock is on)
 
 The following is a mapping of how each key responds to different modifier keys and toggles when:
 
