@@ -1,6 +1,6 @@
-# japanesekeyboardV1
+This Autohotkey script will convert your numpad into a japanese mobile-styled (flick input) keyboard. The mobile keyboard I've imitated is from my own android phone.
 
-This script will convert your numpad into a japanese mobile-styled (flick input) keyboard. The mobile keyboard I've imitated is from my own android phone.
+This script requires AutoHotkey v1.1+. Download it from https://www.autohotkey.com/download/ahk-install.exe
 
 Behaviour: 
 NumLock and ScrollLock are toggle buttons. When NumLock is off the japanese keyboard is activated. 
