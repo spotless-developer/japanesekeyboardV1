@@ -117,12 +117,12 @@ NumLock is on and ScrollLock is on:
 Modifier key:		(none)		Control
 			
 Numpad0 		零		十
-Numpad1 		一
-Numpad2 		二
-Numpad3 		三
-Numpad4 		四
-Numpad5 		五
-Numpad6 		六
+Numpad1 		一		百
+Numpad2 		二		千
+Numpad3 		三		万
+Numpad4 		四		億
+Numpad5 		五		兆
+Numpad6 		六		京
 Numpad7			七
 Numpad8			八
 Numpad9			九
