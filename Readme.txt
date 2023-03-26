@@ -15,7 +15,17 @@ press the corresponding arrow key (←, ↑, → or ↓). And so on for the othe
 which combination of keys to press or be activated to write a certain symbol.
 ScrollLock activates the second set of syllabary called Katakana, as well as turning the regular numpad numbers into Kanji numbers.
 Numpad division (NumpadDiv) and numpad multiplication (NumpadMult) keys acts as toggles for dakuten & han-dakuten symbols, 
-however they reset when they have been used.
+however they reset when they have been used. 
+
+This is a small diagram for how it looks:
+
+日本	゛	゜	←
+あ	 か	 さ	
+た	 な	 は	Space
+ま	 や	 ら
+  	  わ	  、	 Enter
+	  
+These keys/shortcuts are directly mapped:
 
 NumpadSub 		= Backspace
 NumpadAdd 		= Space
