@@ -1,14 +1,18 @@
-This Autohotkey script will convert your numpad into a japanese mobile-styled (flick input) keyboard. The mobile keyboard I've imitated is from my own android phone.
+This Autohotkey script will convert your numpad into a japanese mobile-styled (flick input) keyboard. 
+The mobile keyboard I've imitated is from my own android phone.
 
 This script requires AutoHotkey v1.1+. Download it from https://www.autohotkey.com/download/ahk-install.exe
 Autohotkey is sadly only available on windows. In the future I would like to make a version which also works on Linux and Mac.
 
-I suggest pairing this script with Google Japanese Input to write kanji as well. Download that from https://tools.google.com/dlpage/japaneseinput/eula.html?platform=win
+This script can write both hiragana and katakana, dakuten and han-dakuten, along with some numbers in kanji. However it can't write much other kanji yet.
+If you want to able to write kanji as well, I suggest pairing this script with Google Japanese Input. You can download that from here: 
+https://tools.google.com/dlpage/japaneseinput/eula.html?platform=win
 
 Behaviour: 
 NumLock and ScrollLock are toggle buttons. When NumLock is off the japanese keyboard is activated. 
 ScrollLock activates the second set of syllabary called Katakana, as well as turning the regular numpad numbers into Kanji numbers.
-Numpad division (NumpadDiv) and numpad multiplication (NumpadMult)keys acts as toggles for dakuten & han-dakuten symbols, however they reset when they have been used.
+Numpad division (NumpadDiv) and numpad multiplication (NumpadMult)keys acts as toggles for dakuten & han-dakuten symbols, 
+however they reset when they have been used.
 To use the arrow keys normally while using the japanese keyboard, hold Control while pressing the arrow keys.
 
 NumpadSub 		= Backspace
