@@ -2,6 +2,8 @@ This Autohotkey script will convert your numpad into a japanese mobile-styled (f
 
 This script requires AutoHotkey v1.1+. Download it from https://www.autohotkey.com/download/ahk-install.exe
 
+I suggest pairing this script with Google Japanese Input to write kanji as well. Download that from https://tools.google.com/dlpage/japaneseinput/eula.html?platform=win
+
 Behaviour: 
 NumLock and ScrollLock are toggle buttons. When NumLock is off the japanese keyboard is activated. 
 ScrollLock activates the second set of syllabary called Katakana, as well as turning the regular numpad numbers into Kanji numbers.
