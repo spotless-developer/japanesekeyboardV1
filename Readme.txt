@@ -1,6 +1,7 @@
 This Autohotkey script will convert your numpad into a japanese mobile-styled (flick input) keyboard. The mobile keyboard I've imitated is from my own android phone.
 
 This script requires AutoHotkey v1.1+. Download it from https://www.autohotkey.com/download/ahk-install.exe
+Autohotkey is sadly only available on windows. In the future I would like to make a version which also works on Linux and Mac.
 
 I suggest pairing this script with Google Japanese Input to write kanji as well. Download that from https://tools.google.com/dlpage/japaneseinput/eula.html?platform=win
 
