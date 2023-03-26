@@ -14,7 +14,7 @@ Press a key to produce a japanese character. For example, press NumpadHome to wr
 press the corresponding arrow key (←, ↑, → or ↓). And so on for the other symbols, the tables below explain in detail 
 which combination of keys to press or be activated to write a certain symbol.
 ScrollLock activates the second set of syllabary called Katakana, as well as turning the regular numpad numbers into Kanji numbers.
-Numpad division (NumpadDiv) and numpad multiplication (NumpadMult)keys acts as toggles for dakuten & han-dakuten symbols, 
+Numpad division (NumpadDiv) and numpad multiplication (NumpadMult) keys acts as toggles for dakuten & han-dakuten symbols, 
 however they reset when they have been used.
 To use the arrow keys normally while using the japanese keyboard, hold Control while pressing the arrow keys.
 
