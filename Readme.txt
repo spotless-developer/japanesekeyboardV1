@@ -10,6 +10,9 @@ https://tools.google.com/dlpage/japaneseinput/eula.html?platform=win
 
 Behaviour: 
 NumLock and ScrollLock are toggle buttons. When NumLock is off the japanese keyboard is activated. 
+Press a key to produce a japanese character. For example, press NumpadHome to write あ. If you want い,う,え or お, 
+press the corresponding arrow key (←, ↑, → or ↓). And so on for the other symbols, the tables below explain in detail 
+which combination of keys to press or be activated to write a certain symbol.
 ScrollLock activates the second set of syllabary called Katakana, as well as turning the regular numpad numbers into Kanji numbers.
 Numpad division (NumpadDiv) and numpad multiplication (NumpadMult)keys acts as toggles for dakuten & han-dakuten symbols, 
 however they reset when they have been used.
