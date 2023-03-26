@@ -20,10 +20,10 @@ however they reset when they have been used.
 This is a small diagram for how it looks:
 
 日本	゛	゜	←
-あ	 か	 さ	
-た	 な	 は	Space
-ま	 や	 ら
-  	  わ	  、	 Enter
+あ	か	さ	
+た	な	は	Space
+ま	や	ら
+  	わ	、	Enter
 	  
 These keys/shortcuts are directly mapped:
 
