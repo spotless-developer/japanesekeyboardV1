@@ -693,5 +693,11 @@ Numpad6::六
 Numpad7::七
 Numpad8::八
 Numpad9::九
-Control & Numpad0::十
+Control & Numpad0::十 ; 10
+Control & Numpad1::百 ; 100
+Control & Numpad2::千 ; 1000
+Control & Numpad3::万 ; 10000
+Control & Numpad4::億 ; 100000000
+Control & Numpad5::兆 ; 1000000000000
+Control & Numpad6::京 ; 10000000000000000
 #IF
