@@ -297,18 +297,18 @@ Return
 
 Up & NumpadLeft::
 if (GetKeyState("ScrollLock", "T") && numpadMultToggle){
-	send, ヅ
+	send, ッ
 	numpadMultToggle:=false
 } else if (GetKeyState("ScrollLock", "T") && numpadDivToggle){
-	send, ッ
+	send, ヅ
 	numpadDivToggle:=false
 } else if (GetKeyState("ScrollLock", "T")) {
 	send, ツ
 } else if (numpadMultToggle) {
-    send, づ
+    send, っ
 	numpadMultToggle:=false
 } else if (numpadDivToggle) {
-    send, っ
+    send, づ
 	numpadDivToggle:=false
 } else {
     send, つ
