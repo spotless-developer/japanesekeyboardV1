@@ -64,7 +64,7 @@ Modifier key:		(none)		Left		Up		Right		Down
 NumpadHome		ぁ		ぃ		ぅ		ぇ		ぉ	
 NumpadUp		が		ぎ		ぐ		げ		ご
 NumpadPgUp		ざ		じ		ず		ぜ		ぞ
-NumpadLeft		だ		ぢ		っ		で		ど
+NumpadLeft		だ		ぢ		づ		で		ど
 NumpadClear		
 NumpadRight		ば		び		ぶ		べ		ぼ
 NumpadEnd		
@@ -80,7 +80,7 @@ Modifier key:		(none)		Left		Up		Right		Down
 NumpadHome			
 NumpadUp		
 NumpadPgUp		
-NumpadLeft						づ
+NumpadLeft						っ
 NumpadClear	
 NumpadRight		ぱ		ぴ		ぷ		ぺ		ぽ
 NumpadEnd		
