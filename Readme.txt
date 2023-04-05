@@ -2,7 +2,7 @@ This Autohotkey script will convert your numpad into a Japanese mobile-styled (f
 The mobile keyboard I've imitated is from my own android phone.
 
 This script requires AutoHotkey v1.1+. Download it from https://www.autohotkey.com/download/ahk-install.exe
-Autohotkey is sadly only available on windows. In the future I would like to make a version which also works on Linux and Mac.
+Autohotkey is sadly only available on Windows. In the future I would like to make a version which also works on Linux and Mac.
 
 This script can write both hiragana and katakana, dakuten and han-dakuten, along with some numbers in kanji. However it can't write much other kanji yet.
 If you want to able to write kanji as well, I suggest pairing this script with Google's Japanese Input. You can download that from here: 
