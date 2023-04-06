@@ -35,7 +35,7 @@ RAlt+6			= 円 (¥ when numlock is on)
 
 The following is a mapping of how each key responds to different modifier keys and toggles when:
 
-Table 1 - Hiragana
+## Table 1 - Hiragana
 
 NumLock is off:
 | Modifier key: | (none) | ← Left | ↑ Up | → Right | ↓ Down |
@@ -53,7 +53,7 @@ NumLock is off:
 | NumpadDel | 、 | 。 | ？ | ！ | … |
 
 
-Table  2
+## Table  2
 
 NumLock is off and NumpadDiv is toggled (empty indicates same behaviour as in table 1):
 | Modifier key: | ゛ | ← Left | ↑ Up | → Right | ↓ Down |
@@ -70,7 +70,7 @@ NumLock is off and NumpadDiv is toggled (empty indicates same behaviour as in ta
 | NumpadIns | ゎ |   |   |   |   |
 | NumpadDel |   |   |   |   |   |
 
-Table  3
+## Table  3
 NumLock is off and NumpadMult is toggled (empty indicates same behaviour as in table 1):
 Modifier key:		(none)		← Left		↑ Up		→ Right		↓ Down
 			
@@ -86,7 +86,7 @@ NumpadPgDn
 NumpadIns		
 NumpadDel	
 
-Table  4 - Katakana
+## Table  4 - Katakana
 NumLock is off and ScrollLock is on:
 Modifier key:		(none)		← Left		↑ Up		→ Right		↓ Down
 			
@@ -102,7 +102,7 @@ NumpadPgDn		ラ		リ		ル		レ		ロ
 NumpadIns		ワ		ヲ		ン		ー		〜
 NumpadDel		、		。		？		！		…
 
-Table  5
+## Table  5
 NumLock is off, ScrollLock is on and NumpadDiv is toggled (empty indicates same behaviour as in table 4):
 Modifier key:		(none)		← Left		↑ Up		→ Right		↓ Down
 			
@@ -118,7 +118,7 @@ NumpadPgDn
 NumpadIns		ヮ
 NumpadDel		
 
-Table  6
+## Table  6
 NumLock is off, ScrollLock is on and NumpadMult is toggled (empty indicates same behaviour as in table 4):
 Modifier key:		(none)		← Left		↑ Up		→ Right		↓ Down
 			
@@ -134,7 +134,7 @@ NumpadPgDn
 NumpadIns		
 NumpadDel	
 
-Table  7
+## Table  7
 NumLock is on and ScrollLock is on:
 Modifier key:		(none)		Control
 			
