@@ -28,9 +28,13 @@ This is a small diagram for how it looks:
 These keys/shortcuts are directly mapped:
 
 NumpadSub 		= Backspace
+
 NumpadAdd 		= Space
+
 NumpadEnter 		= Enter
+
 LControl+LAlt+6		= 円 (¥ when numlock is on)
+
 RAlt+6			= 円 (¥ when numlock is on)
 
 The following is a mapping of how each key responds to different modifier keys and toggles when:
