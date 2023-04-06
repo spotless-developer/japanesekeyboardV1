@@ -18,19 +18,11 @@ Numpad division (NumpadDiv) and numpad multiplication (NumpadMult) keys acts as 
 however they reset when they have been used. 
 
 This is a small diagram for how it looks:
-| Modifier key: | (none) | ← Left | ↑ Up | → Right | ↓ Down |
-| :---: | :-----: | :-----: | :-----: | :-----: | :-----: |
-┌───────────────┬───────────────┬───────────────┬───────────────┐
-│     日本語	│	゛	│	゜	│	←	│
-├───────────────┼───────────────┼───────────────┼───────────────┤
-│	あ	│	か	│	さ	│     Space	│
-├───────────────┼───────────────┼───────────────┤		│
-│	た	│	な	│	は	│     └───┘	│
-├───────────────┼───────────────┼───────────────┼───────────────┤
-│	ま	│	や	│	ら	│		│
-├───────────────┴───────────────┼───────────────┤     Enter	│
-│			わ	│	、	│		│
-└───────────────────────────────┴───────────────┴───────────────┘
+| 日本語 | (none) | ゜ | ← |
+| あ | か | さ | Space |
+| た | な | は |  |
+| ま | や | ら | Enter |
+|  | わ | 、 |  |
 	  
 These keys/shortcuts are directly mapped:
 
@@ -44,11 +36,19 @@ The following is a mapping of how each key responds to different modifier keys a
 
 Table 1 - Hiragana
 NumLock is off:
-| 日本語 | (none) | ゜ | ← |
-| あ | か | さ | Space |
-| た | な | は |  |
-| ま | や | ら | Enter |
-|  | わ | 、 |  |
+| Modifier key: | (none) | ← Left | ↑ Up | → Right | ↓ Down |
+| --- | :-----: | :-----: | :-----: | :-----: | :-----: |
+| NumpadHome | あ | い | う | え | お |
+| NumpadUp | か | き | く | け | こ |
+| NumpadPgUp | さ | し | す | せ | そ |
+| NumpadLeft | た | ち | つ | て | と |
+| NumpadClear | な | に | ぬ | ね | の |
+| NumpadRight | は | ひ | ふ | へ | ほ |
+| NumpadEnd | ま | み | む | め | も |
+| NumpadDown | や | （ | ゆ | ） | よ |
+| NumpadPgDn | ら | り | る | れ | ろ |
+| NumpadIns | わ | を | ん | ー | 〜 |
+| NumpadDel | 、 | 。 | ？ | ！ | … |
 
 
 Table  2
