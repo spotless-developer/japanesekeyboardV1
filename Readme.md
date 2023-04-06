@@ -56,7 +56,7 @@ NumLock is off:
 ## Table  2
 
 NumLock is off and NumpadDiv is toggled (empty indicates same behaviour as in table 1):
-| Modifier key: | ゛ | ← Left | ↑ Up | → Right | ↓ Down |
+| Modifier key: | (none) | ← Left | ↑ Up | → Right | ↓ Down |
 | --- | :-----: | :-----: | :-----: | :-----: | :-----: |
 | NumpadHome | ぁ | ぃ | ぅ | ぇ | ぉ |
 | NumpadUp | が | ぎ | ぐ | げ | ご |
