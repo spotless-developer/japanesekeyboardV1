@@ -36,6 +36,7 @@ RAlt+6			= 円 (¥ when numlock is on)
 The following is a mapping of how each key responds to different modifier keys and toggles when:
 
 Table 1 - Hiragana
+
 NumLock is off:
 | Modifier key: | (none) | ← Left | ↑ Up | → Right | ↓ Down |
 | --- | :-----: | :-----: | :-----: | :-----: | :-----: |
@@ -53,6 +54,7 @@ NumLock is off:
 
 
 Table  2
+
 NumLock is off and NumpadDiv is toggled (empty indicates same behaviour as in table 1):
 | Modifier key: | ゛ | ← Left | ↑ Up | → Right | ↓ Down |
 | --- | :-----: | :-----: | :-----: | :-----: | :-----: |
