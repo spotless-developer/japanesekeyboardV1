@@ -18,12 +18,6 @@ Numpad division (NumpadDiv) and numpad multiplication (NumpadMult) keys acts as 
 however they reset when they have been used. 
 
 This is a small diagram for how it looks:
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
 ┌───────────────┬───────────────┬───────────────┬───────────────┐
 │     日本語	│	゛	│	゜	│	←	│
 ├───────────────┼───────────────┼───────────────┼───────────────┤
@@ -49,7 +43,7 @@ The following is a mapping of how each key responds to different modifier keys a
 Table 1 - Hiragana
 NumLock is off:
 | Modifier key: | (none) | ← Left | ↑ Up | → Right | ↓ Down |
-| --- | --- | --- | --- | --- | --- |
+| --- | :---: | :---: | :---: | :---: | :---: |
 | NumpadHome | あ | い | う | え | お |
 | NumpadUp | か | き | く | け | こ |
 | NumpadPgUp | さ | し | す | せ | そ |
