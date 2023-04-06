@@ -72,79 +72,79 @@ NumLock is off and NumpadDiv is toggled (empty indicates same behaviour as in ta
 
 ## Table  3
 NumLock is off and NumpadMult is toggled (empty indicates same behaviour as in table 1):
-Modifier key:		(none)		← Left		↑ Up		→ Right		↓ Down
-			
-NumpadHome			
-NumpadUp		
-NumpadPgUp		
-NumpadLeft						っ
-NumpadClear	
-NumpadRight		ぱ		ぴ		ぷ		ぺ		ぽ
-NumpadEnd		
-NumpadDown		
-NumpadPgDn		
-NumpadIns		
-NumpadDel	
+| Modifier key: | (none) | ← Left | ↑ Up | → Right | ↓ Down |
+| --- | :-----: | :-----: | :-----: | :-----: | :-----: |
+| NumpadHome |  |  |  |  |  |
+| NumpadUp |  |  |  |  |  |
+| NumpadPgUp |  |  |  |  |  |
+| NumpadLeft |  |  | っ |  |  |
+| NumpadClear |   |   |   |   |   |
+| NumpadRight | ぱ | ぴ | ぷ | ぺ | ぽ |
+| NumpadEnd |   |   |   |   |   |
+| NumpadDown |  |   |  |   |  |
+| NumpadPgDn |   |   |   |   |   |
+| NumpadIns |  |   |   |   |   |
+| NumpadDel |   |   |   |   |   |
 
 ## Table  4 - Katakana
 NumLock is off and ScrollLock is on:
-Modifier key:		(none)		← Left		↑ Up		→ Right		↓ Down
-			
-NumpadHome		ア		イ		ウ		エ		オ
-NumpadUp		カ		キ		ク		ケ		コ
-NumpadPgUp		サ		シ		ス		セ		ソ
-NumpadLeft		タ		チ		ツ		テ		ト
-NumpadClear		ナ		ニ		ヌ		ネ		ノ
-NumpadRight		ハ		ヒ		フ		ヘ		ホ
-NumpadEnd		マ		ミ		ム		メ		モ
-NumpadDown		ヤ		（		ユ		）		ヨ
-NumpadPgDn		ラ		リ		ル		レ		ロ
-NumpadIns		ワ		ヲ		ン		ー		〜
-NumpadDel		、		。		？		！		…
+| Modifier key: | (none) | ← Left | ↑ Up | → Right | ↓ Down |
+| --- | :-----: | :-----: | :-----: | :-----: | :-----: |
+| NumpadHome | ア | イ | ウ | エ | オ |
+| NumpadUp | カ | キ | ク | ケ | コ |
+| NumpadPgUp | サ | シ | ス | セ | ソ |
+| NumpadLeft | タ | チ | ツ | テ | ト |
+| NumpadClear | ナ | ニ | ヌ | ネ | ノ |
+| NumpadRight | ハ | ヒ | フ | ヘ | ホ |
+| NumpadEnd | マ | ミ | ム | メ | モ |
+| NumpadDown | ヤ | （ | ユ | ） | ヨ |
+| NumpadPgDn | ラ | リ | ル | レ | ロ |
+| NumpadIns | ワ | ヲ | ン | ー | 〜 |
+| NumpadDel | 、 | 。 | ？ | ！ | … |
 
 ## Table  5
 NumLock is off, ScrollLock is on and NumpadDiv is toggled (empty indicates same behaviour as in table 4):
-Modifier key:		(none)		← Left		↑ Up		→ Right		↓ Down
-			
-NumpadHome		ァ		ィ		ゥ		ェ		ォ
-NumpadUp		ガ		ギ		グ		ゲ		ゴ
-NumpadPgUp		ザ		ジ		ズ		ゼ		ゾ
-NumpadLeft		ダ		ヂ		ヅ		デ		ド
-NumpadClear		
-NumpadRight		バ		ビ		ブ		ベ		ボ
-NumpadEnd		
-NumpadDown		ャ				ュ				ョ
-NumpadPgDn		
-NumpadIns		ヮ
-NumpadDel		
+| Modifier key: | (none) | ← Left | ↑ Up | → Right | ↓ Down |
+| --- | :-----: | :-----: | :-----: | :-----: | :-----: |
+| NumpadHome | ァ | ィ | ゥ | ェ | ォ |
+| NumpadUp | ガ | ギ | グ | ゲ | ゴ |
+| NumpadPgUp | ザ | ジ | ズ | ゼ | ゾ |
+| NumpadLeft | ダ | ヂ | ヅ | デ | ド |
+| NumpadClear |   |   |   |   |   |
+| NumpadRight | バ | ビ | ブ | ベ | ボ |
+| NumpadEnd |   |   |   |   |   |
+| NumpadDown | ャ |   | ュ |   | ョ |
+| NumpadPgDn |   |   |   |   |   |
+| NumpadIns | ヮ |   |   |   |   |
+| NumpadDel |   |   |   |   |   |		
 
 ## Table  6
 NumLock is off, ScrollLock is on and NumpadMult is toggled (empty indicates same behaviour as in table 4):
-Modifier key:		(none)		← Left		↑ Up		→ Right		↓ Down
-			
-NumpadHome		
-NumpadUp		
-NumpadPgUp		
-NumpadLeft						ッ
-NumpadClear
-NumpadRight		パ		ピ		プ		ペ		ポ
-NumpadEnd		
-NumpadDown		
-NumpadPgDn		
-NumpadIns		
-NumpadDel	
+| Modifier key: | (none) | ← Left | ↑ Up | → Right | ↓ Down |
+| --- | :-----: | :-----: | :-----: | :-----: | :-----: |
+| NumpadHome |  |  |  |  |  |
+| NumpadUp |  |  |  |  |  |
+| NumpadPgUp |  |  |  |  |  |
+| NumpadLeft |  |  | ッ |  |  |
+| NumpadClear |   |   |   |   |   |
+| NumpadRight | パ | ピ | プ | ペ | ポ |
+| NumpadEnd |   |   |   |   |   |
+| NumpadDown |  |   |  |   |  |
+| NumpadPgDn |   |   |   |   |   |
+| NumpadIns |  |   |   |   |   |
+| NumpadDel |   |   |   |   |   |
 
 ## Table  7
 NumLock is on and ScrollLock is on:
-Modifier key:		(none)		Control
-			
-Numpad0 		零		十
-Numpad1 		一		百
-Numpad2 		二		千
-Numpad3 		三		万
-Numpad4 		四		億
-Numpad5 		五		兆
-Numpad6 		六		京
-Numpad7			七
-Numpad8			八
-Numpad9			九
+| Modifier key: | (none) | Control |
+| --- | :-----: | :-----: |
+| Numpad0 | 零 | 十 |
+| Numpad1 | 一 | 百 |
+| Numpad2 | 二 | 千 |
+| Numpad3 | 三 | 万 |
+| Numpad4 | 四 | 億 |
+| Numpad5 | 五 | 兆 |
+| Numpad6 | 六 | 京 |
+| Numpad7 | 七 |  |
+| Numpad8 | 八 |  |
+| Numpad9 | 九 |  |
