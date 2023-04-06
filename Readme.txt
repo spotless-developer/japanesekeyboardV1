@@ -112,7 +112,7 @@ Modifier key:		(none)		← Left		↑ Up		→ Right		↓ Down
 NumpadHome		ァ		ィ		ゥ		ェ		ォ
 NumpadUp		ガ		ギ		グ		ゲ		ゴ
 NumpadPgUp		ザ		ジ		ズ		ゼ		ゾ
-NumpadLeft		ダ		ヂ		ッ		デ		ド
+NumpadLeft		ダ		ヂ		ヅ		デ		ド
 NumpadClear		
 NumpadRight		バ		ビ		ブ		ベ		ボ
 NumpadEnd		
@@ -128,7 +128,7 @@ Modifier key:		(none)		← Left		↑ Up		→ Right		↓ Down
 NumpadHome		
 NumpadUp		
 NumpadPgUp		
-NumpadLeft						ヅ
+NumpadLeft						ッ
 NumpadClear
 NumpadRight		パ		ピ		プ		ペ		ポ
 NumpadEnd		
