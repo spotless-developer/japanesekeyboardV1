@@ -58,19 +58,19 @@ NumLock is off:
 
 Table  2
 NumLock is off and NumpadDiv is toggled (empty indicates same behaviour as in table 1):
-Modifier key:		(none)		← Left		↑ Up		→ Right		↓ Down
-			
-NumpadHome		ぁ		ぃ		ぅ		ぇ		ぉ	
-NumpadUp		が		ぎ		ぐ		げ		ご
-NumpadPgUp		ざ		じ		ず		ぜ		ぞ
-NumpadLeft		だ		ぢ		づ		で		ど
-NumpadClear		
-NumpadRight		ば		び		ぶ		べ		ぼ
-NumpadEnd		
-NumpadDown		ゃ				ゅ				ょ
-NumpadPgDn		
-NumpadIns		ゎ		
-NumpadDel		
+| Modifier key: | (none) | ← Left | ↑ Up | → Right | ↓ Down |
+| --- | :-----: | :-----: | :-----: | :-----: | :-----: |
+| NumpadHome | ぁ | ぃ | ぅ | ぇ | ぉ |
+| NumpadUp | が | ぎ | ぐ | げ | ご |
+| NumpadPgUp | ざ | じ | ず | ぜ | ぞ |
+| NumpadLeft | だ | ぢ | づ | で | ど |
+| NumpadClear |   |   |   |   |   |
+| NumpadRight | ば | び | ぶ | べ | ぼ |
+| NumpadEnd |   |   |   |   |   |
+| NumpadDown | ゃ |   | ゅ |   | ょ |
+| NumpadPgDn |   |   |   |   |   |
+| NumpadIns | ゎ |   |   |   |   |
+| NumpadDel |   |   |   |   |   |
 
 Table  3
 NumLock is off and NumpadMult is toggled (empty indicates same behaviour as in table 1):
