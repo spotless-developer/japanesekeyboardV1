@@ -18,6 +18,8 @@ Numpad division (NumpadDiv) and numpad multiplication (NumpadMult) keys acts as 
 however they reset when they have been used. 
 
 This is a small diagram for how it looks:
+| Modifier key: | (none) | ← Left | ↑ Up | → Right | ↓ Down |
+| :---: | :-----: | :-----: | :-----: | :-----: | :-----: |
 ┌───────────────┬───────────────┬───────────────┬───────────────┐
 │     日本語	│	゛	│	゜	│	←	│
 ├───────────────┼───────────────┼───────────────┼───────────────┤
@@ -42,23 +44,16 @@ The following is a mapping of how each key responds to different modifier keys a
 
 Table 1 - Hiragana
 NumLock is off:
-| Modifier key: | (none) | ← Left | ↑ Up | → Right | ↓ Down |
-| --- | :-----: | :-----: | :-----: | :-----: | :-----: |
-| NumpadHome | あ | い | う | え | お |
-| NumpadUp | か | き | く | け | こ |
-| NumpadPgUp | さ | し | す | せ | そ |
-| NumpadLeft | た | ち | つ | て | と |
-| NumpadClear | な | に | ぬ | ね | の |
-| NumpadRight | は | ひ | ふ | へ | ほ |
-| NumpadEnd | ま | み | む | め | も |
-| NumpadDown | や | （ | ゆ | ） | よ |
-| NumpadPgDn | ら | り | る | れ | ろ |
-| NumpadIns | わ | を | ん | ー | 〜 |
-| NumpadDel | 、 | 。 | ？ | ！ | … |
+| 日本語 | (none) | ゜ | ← |
+| あ | か | さ | Space |
+| た | な | は |  |
+| ま | や | ら | Enter |
+|  | わ | 、 |  |
+
 
 Table  2
 NumLock is off and NumpadDiv is toggled (empty indicates same behaviour as in table 1):
-| Modifier key: | (none) | ← Left | ↑ Up | → Right | ↓ Down |
+| Modifier key: | ゛ | ← Left | ↑ Up | → Right | ↓ Down |
 | --- | :-----: | :-----: | :-----: | :-----: | :-----: |
 | NumpadHome | ぁ | ぃ | ぅ | ぇ | ぉ |
 | NumpadUp | が | ぎ | ぐ | げ | ご |
