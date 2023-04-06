@@ -17,7 +17,7 @@ ScrollLock activates the second set of syllabary called Katakana, as well as tur
 Numpad division (NumpadDiv) and numpad multiplication (NumpadMult) keys acts as toggles for dakuten & han-dakuten symbols, 
 however they reset when they have been used. 
 
-This is a small diagram for how it looks:
+This is a simple diagram for how it looks on the numpad:
 | 日本語 | ゛ | ゜ | ← |
 | :---: | :---: | :---: | :---: |
 | あ | か | さ | Space |
