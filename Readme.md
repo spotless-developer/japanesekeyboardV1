@@ -18,7 +18,7 @@ Numpad division (NumpadDiv) and numpad multiplication (NumpadMult) keys acts as 
 however they reset when they have been used. 
 
 This is a small diagram for how it looks:
-| 日本語 | (none) | ゜ | ← |
+| 日本語 | ゛ | ゜ | ← |
 | :---: | :---: | :---: | :---: |
 | あ | か | さ | Space |
 | た | な | は |  |
